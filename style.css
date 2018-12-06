@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+}
+.head{
+    height: 200px;
+    margin: 5px 12px;
+    width: 68%;
+    float: left;
+}
+.rigth{
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.rigth img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+.left{
+    background-color: aquamarine;
+    height: 500px;
+    width:30%;
+    float: left;
+    margin:1px 11px;
+}
+.content{
+    background-color: antiquewhite;
+    width: 65%;
+    height: 500px;
+    float: left;
+    margin: 1px 6px;
+}
+.footer{
+    background-color: aquamarine;
+    height: 80px;
+    width: 100%;
+    margin-bottom: 5px;
+    clear: both;
+}
